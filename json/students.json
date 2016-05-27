@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "G0000002",
+    "Name": "Alice",
+    "Birth": "2015/08/10",
+    "BloodType": "AB",
+  },
+  {
+    "Id": "A0000001",
+    "Name": "Bob",
+    "Birth": "2010/05/22",
+    "BloodType": "X",
+  },
+  {
+    "Id": "K0133303",
+    "Name": "Charly",
+    "Birth": "1973/12/09",
+    "BloodType": "A",
+  }
+]
